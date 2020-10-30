@@ -1,0 +1,6 @@
+enableSkipLogin: true
+
+enableInsecureLogin: true
+
+rbac:
+  create: false
